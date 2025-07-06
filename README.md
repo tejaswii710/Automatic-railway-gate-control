@@ -28,7 +28,7 @@ This project automates the operation of railway level crossing gates using Ardui
 ![Result](images/result.png)
 
 ### 🖥️ Gate Detection result
-![Detection](images/imagedoc)
+![Detection](images/workflow.png)
 
 ---
 
