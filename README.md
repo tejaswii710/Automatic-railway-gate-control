@@ -5,7 +5,7 @@ This project automates the operation of railway level crossing gates using Ardui
 
 ## 📁 Table of Contents
 
-- [Overview](#overview)
+- [Overview](00_overview.md)
 - [Block Diagram](#block-diagram)
 - [Workflow](#workflow)
 - [Components Required](#components-required)
