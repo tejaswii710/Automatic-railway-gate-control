@@ -17,11 +17,6 @@ This project automates the operation of railway level crossing gates using Ardui
 
 ---
 
-## 🖼️ Block Diagram
-
-![Block Diagram](images/blockdiagram.png)
-
-
 ## 📸 Screenshots
 
 ### ✅ Final Output
@@ -31,6 +26,11 @@ This project automates the operation of railway level crossing gates using Ardui
 ![Detection](images/workflow.png)
 
 ---
+
+## 🖼️ Block Diagram
+
+![Block Diagram](images/blockdiagram.png)
+
 
 ## 🧾 Code
 
