@@ -5,6 +5,9 @@
   - The **servo motor rotates** to **close the gate**.
   - The **red LED** turns ON.
   - The **buzzer** activates to alert nearby vehicles and pedestrians.
+ 
+    ---
+
 
 - The train continues and reaches **IR Sensor 2**, which is placed **after the gate**.
 - When **IR Sensor 2** detects the train has passed:
