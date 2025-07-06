@@ -3,6 +3,11 @@ This project automates the operation of railway level crossing gates using Ardui
 
 ----
 
+### 📽️ Demo Video  
+[▶️ Click here to watch the demo video](videodemo.mp4)
+
+---
+
 ## 📁 Table of Contents
 
 - [Overview](docs/00_overview.md)
