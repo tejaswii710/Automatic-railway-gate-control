@@ -13,6 +13,7 @@ This project automates the operation of railway level crossing gates using Ardui
 - [Working Mechanism](docs/03_workingmechanism.md)
 - [result](images/result.png)
 - [Code](code.md)
+- [video result](videodemo.mp4)
 
 
 ---
